@@ -26,6 +26,6 @@ This repository contains selected code snippets and UI components from my upcomi
 
 ## 📞 Get in Touch
 
-Feel free to connect with me professionally on [LinkedIn](<[YOUR LINKEDIN PROFILE URL](https://www.linkedin.com/in/prince-oberoi-80a747285/)>).
+Feel free to connect with me professionally on https://www.linkedin.com/in/prince-oberoi-80a747285/
 
 
